@@ -1,0 +1,22 @@
+h1{
+    text-align: left;
+    color: aqua;
+    background-color: black;
+}
+
+span{
+    color: white;
+}
+
+h2{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+}
+
+h3{
+    text-align: right;
+    background-color: lightskyblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
